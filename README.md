@@ -1,2 +1,3 @@
-# CSPB-4122
-Information Visualization 4122
+# SIR Model
+
+SIR Model for Epidemic Dynamics
